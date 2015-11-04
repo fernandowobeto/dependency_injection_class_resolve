@@ -1,9 +1,7 @@
 <?php
 
 include 'Request.php';
-include 'Base.php';
 include 'Cidade.php';
-include 'Estado.php';
 
 
 $route = 'Cidade@salvar';
